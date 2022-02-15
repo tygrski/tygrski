@@ -3,6 +3,8 @@
 
 ## You can reach me by [email](mailto:travis.tybor.tt@gmail.com) or [LinkedIn](https://www.linkedin.com/in/travis-tybor-70160620b/)
 
+## <a href="https://www.google.com/" target="_blank">Google</a>
+
 
 ## You can reach me by email travis.tybor.tt@gmail.com  or LinkedIn https://www.linkedin.com/in/travis-tybor-70160620b/
 
