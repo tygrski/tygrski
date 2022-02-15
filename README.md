@@ -1,7 +1,8 @@
 
 # Hi, I'm Travis Tybor  🧑‍💻 Full Stack Developer
 
-## You can contact me by [Email](mailto:travis.tybor.tt@gmail.com) or [LinkedIn](https://www.linkedin.com/in/travis-tybor-70160620b/)
+## You can contact me by [📧 Email](mailto:travis.tybor.tt@gmail.com) or [![DownsignLinkedInGIF](https://user-images.githubusercontent.com/77369211/154116437-b06b112c-9ae3-452f-b180-8bea85bb1368.gif)
+ LinkedIn](https://www.linkedin.com/in/travis-tybor-70160620b/)
 
 ## This link will take you to my [portfolio webpage](https://travis-tybor.netlify.app/)
 
