@@ -1,5 +1,5 @@
 
-# Hi, I'm Travis 🧑‍💻 Full Stack Developer
+# Hi, I'm Travis Tybor  🧑‍💻 Full Stack Developer
 
 ## You can reach me by [Email](mailto:travis.tybor.tt@gmail.com) or [LinkedIn](https://www.linkedin.com/in/travis-tybor-70160620b/)
 
