@@ -3,7 +3,7 @@
 
 ## You can contact me by [📧 Email](mailto:travis.tybor.tt@gmail.com) or [LinkedIn](https://www.linkedin.com/in/travis-tybor-70160620b/)
 
-## This link will take you to my [portfolio webpage](https://travis-tybor.netlify.app/)
+## This [link](https://travis-tybor.netlify.app/) will take you to my [portfolio webpage](https://travis-tybor.netlify.app/)
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tygrski&theme=merko&show_icons=true" />
 
